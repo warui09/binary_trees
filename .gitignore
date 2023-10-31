@@ -36,6 +36,7 @@
 *.x86_64
 *.hex
 0-node
+1-left
 
 # Debug files
 *.dSYM/
@@ -55,3 +56,4 @@ dkms.conf
 # Test files
 binary_tree_print.c
 0-main.c
+1-main.c
