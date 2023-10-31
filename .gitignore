@@ -43,6 +43,7 @@
 5-root
 6-pre
 7-in
+8-post
 
 # Debug files
 *.dSYM/
@@ -69,3 +70,4 @@ binary_tree_print.c
 5-main.c
 6-main.c
 7-main.c
+8-main.c
