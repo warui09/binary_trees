@@ -39,6 +39,7 @@
 1-left
 2-right
 3-del
+4-leaf
 
 # Debug files
 *.dSYM/
@@ -61,3 +62,4 @@ binary_tree_print.c
 1-main.c
 2-main.c
 3-main.c
+4-main.c
