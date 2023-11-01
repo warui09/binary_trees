@@ -48,6 +48,7 @@
 10-depth
 11-size
 12-leaves
+13-nodes
 
 # Debug files
 *.dSYM/
@@ -79,3 +80,4 @@ binary_tree_print.c
 10-main.c
 11-main.c
 12-main.c
+13-main.c
